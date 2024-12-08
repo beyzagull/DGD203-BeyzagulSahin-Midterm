@@ -1,0 +1,28 @@
+C:\Users\Ömer Ali\Desktop\DGD203-MidTerm-BeyzagülŞahin-20241208\bin\Debug\net7.0\DGD203-MidTerm-BeyzagülŞahin-20241208.exe
+C:\Users\Ömer Ali\Desktop\DGD203-MidTerm-BeyzagülŞahin-20241208\bin\Debug\net7.0\DGD203-MidTerm-BeyzagülŞahin-20241208.deps.json
+C:\Users\Ömer Ali\Desktop\DGD203-MidTerm-BeyzagülŞahin-20241208\bin\Debug\net7.0\DGD203-MidTerm-BeyzagülŞahin-20241208.runtimeconfig.json
+C:\Users\Ömer Ali\Desktop\DGD203-MidTerm-BeyzagülŞahin-20241208\bin\Debug\net7.0\DGD203-MidTerm-BeyzagülŞahin-20241208.dll
+C:\Users\Ömer Ali\Desktop\DGD203-MidTerm-BeyzagülŞahin-20241208\bin\Debug\net7.0\DGD203-MidTerm-BeyzagülŞahin-20241208.pdb
+C:\Users\Ömer Ali\Desktop\DGD203-MidTerm-BeyzagülŞahin-20241208\obj\Debug\net7.0\DGD203-MidTerm-BeyzagülŞahin-20241208.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ömer Ali\Desktop\DGD203-MidTerm-BeyzagülŞahin-20241208\obj\Debug\net7.0\DGD203-MidTerm-BeyzagülŞahin-20241208.AssemblyInfoInputs.cache
+C:\Users\Ömer Ali\Desktop\DGD203-MidTerm-BeyzagülŞahin-20241208\obj\Debug\net7.0\DGD203-MidTerm-BeyzagülŞahin-20241208.AssemblyInfo.cs
+C:\Users\Ömer Ali\Desktop\DGD203-MidTerm-BeyzagülŞahin-20241208\obj\Debug\net7.0\DGD203-MidTerm-BeyzagülŞahin-20241208.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Ali\Desktop\DGD203-MidTerm-BeyzagülŞahin-20241208\obj\Debug\net7.0\DGD203-MidTerm-BeyzagülŞahin-20241208.dll
+C:\Users\Ömer Ali\Desktop\DGD203-MidTerm-BeyzagülŞahin-20241208\obj\Debug\net7.0\refint\DGD203-MidTerm-BeyzagülŞahin-20241208.dll
+C:\Users\Ömer Ali\Desktop\DGD203-MidTerm-BeyzagülŞahin-20241208\obj\Debug\net7.0\DGD203-MidTerm-BeyzagülŞahin-20241208.pdb
+C:\Users\Ömer Ali\Desktop\DGD203-MidTerm-BeyzagülŞahin-20241208\obj\Debug\net7.0\DGD203-MidTerm-BeyzagülŞahin-20241208.genruntimeconfig.cache
+C:\Users\Ömer Ali\Desktop\DGD203-MidTerm-BeyzagülŞahin-20241208\obj\Debug\net7.0\ref\DGD203-MidTerm-BeyzagülŞahin-20241208.dll
+C:\Users\Burak\Desktop\DGD203-MidTerm-BeyzagülŞahin-20241208\bin\Debug\net7.0\DGD203-MidTerm-BeyzagülŞahin-20241208.exe
+C:\Users\Burak\Desktop\DGD203-MidTerm-BeyzagülŞahin-20241208\bin\Debug\net7.0\DGD203-MidTerm-BeyzagülŞahin-20241208.deps.json
+C:\Users\Burak\Desktop\DGD203-MidTerm-BeyzagülŞahin-20241208\bin\Debug\net7.0\DGD203-MidTerm-BeyzagülŞahin-20241208.runtimeconfig.json
+C:\Users\Burak\Desktop\DGD203-MidTerm-BeyzagülŞahin-20241208\bin\Debug\net7.0\DGD203-MidTerm-BeyzagülŞahin-20241208.dll
+C:\Users\Burak\Desktop\DGD203-MidTerm-BeyzagülŞahin-20241208\bin\Debug\net7.0\DGD203-MidTerm-BeyzagülŞahin-20241208.pdb
+C:\Users\Burak\Desktop\DGD203-MidTerm-BeyzagülŞahin-20241208\obj\Debug\net7.0\DGD203-MidTerm-BeyzagülŞahin-20241208.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\Desktop\DGD203-MidTerm-BeyzagülŞahin-20241208\obj\Debug\net7.0\DGD203-MidTerm-BeyzagülŞahin-20241208.AssemblyInfoInputs.cache
+C:\Users\Burak\Desktop\DGD203-MidTerm-BeyzagülŞahin-20241208\obj\Debug\net7.0\DGD203-MidTerm-BeyzagülŞahin-20241208.AssemblyInfo.cs
+C:\Users\Burak\Desktop\DGD203-MidTerm-BeyzagülŞahin-20241208\obj\Debug\net7.0\DGD203-MidTerm-BeyzagülŞahin-20241208.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\DGD203-MidTerm-BeyzagülŞahin-20241208\obj\Debug\net7.0\DGD203-MidTerm-BeyzagülŞahin-20241208.dll
+C:\Users\Burak\Desktop\DGD203-MidTerm-BeyzagülŞahin-20241208\obj\Debug\net7.0\refint\DGD203-MidTerm-BeyzagülŞahin-20241208.dll
+C:\Users\Burak\Desktop\DGD203-MidTerm-BeyzagülŞahin-20241208\obj\Debug\net7.0\DGD203-MidTerm-BeyzagülŞahin-20241208.pdb
+C:\Users\Burak\Desktop\DGD203-MidTerm-BeyzagülŞahin-20241208\obj\Debug\net7.0\DGD203-MidTerm-BeyzagülŞahin-20241208.genruntimeconfig.cache
+C:\Users\Burak\Desktop\DGD203-MidTerm-BeyzagülŞahin-20241208\obj\Debug\net7.0\ref\DGD203-MidTerm-BeyzagülŞahin-20241208.dll
